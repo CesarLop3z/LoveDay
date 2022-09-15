@@ -56,7 +56,7 @@ body
 }
 h1
 {
-    text-shadow: 5px 5px 5px #9244da;
+    text-shadow: 5px 5px 5px red;
     font-weight: bold;
     font-size: 150px;
     padding: 5%;
